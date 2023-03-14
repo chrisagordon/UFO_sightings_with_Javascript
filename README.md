@@ -6,11 +6,11 @@ The task of this challenge was to compile UFO sighting data onto a webpage where
 ## 2. RESULTS
 
 - Here is an overview image of the entire webpage
-
+![alt text](https://github.com/chrisagordon/UFO_sightings_with_Javascript/blob/Challenge/web/static/images/Data Filtered 1.10.2010.PNG?raw=true)
 - Filtering can be done by typing a specific criteria into the filter data boxes, see this image with data filtered for 1.10.2010
-
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 - Filtering can also be done on multiple criteria at the same time. This image displays data that is for 1.10.2010 and was reported in the state of Massachussetts
-
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ## 3. SUMMARY
 
