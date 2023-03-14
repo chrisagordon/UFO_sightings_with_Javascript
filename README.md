@@ -6,7 +6,7 @@ The task of this challenge was to compile UFO sighting data onto a webpage where
 ## 2. RESULTS
 
 - Here is an overview image of the entire webpage
-![This is an image](https://github.com/chrisagordon/Module1Challenge/blob/13ba6711a20f47b8e97688c6083544561d696007/Theater_Outcomes_vs_Launch.png)
+![This is an image](https://github.com/chrisagordon/Module1Challenge/blob/Theater_Outcomes_vs_Launch.png)
 - Filtering can be done by typing a specific criteria into the filter data boxes, see this image with data filtered for 1.10.2010
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 - Filtering can also be done on multiple criteria at the same time. This image displays data that is for 1.10.2010 and was reported in the state of Massachussetts
